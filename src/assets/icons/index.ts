@@ -1,0 +1,11 @@
+export { default as ReactIcon } from "./react.png";
+export { default as NodeIcon } from "./nodejs.svg";
+export { default as JsIcon } from "./javascript.svg";
+export { default as GitIcon } from "./git.svg";
+export { default as GitHubIcon } from "./github.svg";
+export { default as TsIcon } from "./typescript.svg";
+export { default as HtmlIcon } from "./icons8-html.svg";
+export { default as CssIcon } from "./icons8-css.svg";
+export { default as AwsIcon } from "./icons8-amazon-web-services.svg";
+export { default as AdonisIcon } from "./adonis-seeklogo.com.svg";
+export { default as DockerIcon } from "./docker.png";
